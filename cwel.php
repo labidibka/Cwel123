@@ -7,7 +7,7 @@ if ($niger>10) {
     echo "git";
 }
 else{
-    echo "jestes gownem";
+    echo "jestes gitem";
 }
 
 ?>
